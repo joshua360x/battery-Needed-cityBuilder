@@ -1,4 +1,4 @@
-export default function SloganForm(props) {
+export default function SloganForm({ setSlogans }) {
   // React forms are a pain! 
   // Track the sloganInput form state with a useState hook
     
